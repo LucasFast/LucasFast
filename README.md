@@ -47,6 +47,3 @@ Here are some of the projects I've been working/worked on:
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
----
-
-Feel free to customize this template further to better suit your profile and interests!
