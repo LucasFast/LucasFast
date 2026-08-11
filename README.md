@@ -21,11 +21,7 @@ Here are some of the projects I've been working/worked on:
 
 ### 🔬 Computational Neuroscience
 - **[Gene Expression and Electrophysiology]**: Analyzed the correlation between gene expression patterns and electrophysiological properties of neurons across different brain structures in humans and mice.
-
-## 💼 Experience
-- **UCSD Undergraduate Law Review**: Editor for an article, contributing to the publication process and ensuring high-quality content.
-- **[Internship/Job Title]**: Brief description of the role, responsibilities, and achievements.
-
+  
 ## 🌱 I'm Currently Learning
 - Advanced reinforcement learning techniques
 - Time series forecasting models
