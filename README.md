@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Lucas Fasting!
 
-Welcome to my GitHub profile! I'm a recent graduate from UC San Diego with a major in Machine Learning and Neural Computation. I have a passion for AI, machine learning, and neural networks, and I'm excited to share my projects and contributions with the community.
+Welcome to my GitHub profile! I'm a  graduate from UC San Diego with a major in Machine Learning and Neural Computation. I have a passion for AI, machine learning, and neural networks, and I'm excited to share my projects and contributions with the community.
 
 ## 🔍 About Me
 
